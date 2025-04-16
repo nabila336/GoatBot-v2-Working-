@@ -18,16 +18,16 @@ module.exports = {
 	onStart: async function ({ api, event }) {
 		try {
 			const ownerInfo = {
-				name: '𝑯𝑨𝑺𝑨𝑵 𝑴𝑨𝑯𝑴𝑼𝑫',
-				class: '𝑺𝑺𝑪 𝑪𝑨𝑵𝑫𝑰𝑫𝑨𝑻𝑬',
+				name: 'ABID',
+				class: 'HSC 𝑪𝑨𝑵𝑫𝑰𝑫𝑨𝑻𝑬',
 				group: '𝑺𝑪𝑰𝑬𝑵𝑪𝑬',
 				gender: '𝑴𝑨𝑳𝑬',
-				Birthday: '𝟐𝟐-𝟎𝟕-𝟐𝟎𝟎𝟖',
+				Birthday: '𝟐𝟐-𝟎𝟕-𝟐𝟎𝟎3',
 				religion: '𝑰𝑺𝑳𝑨𝑴',
 				hobby: '𝑭𝒍𝒊𝒓𝒕𝒊𝒏𝒈 😁',
 				Fb: 'https://www.facebook.com/Itz.HaSaN.00',
 				Relationship: '𝑨𝑳𝑾𝑨𝒀𝑺 𝑩𝑬 𝑺𝑰𝑵𝑮𝑳𝑬',
-				Height: '5"4'
+				Height: '5"9'
 			};
 
 			const bold = 'https://i.imgur.com/Ch8ZvsM.mp4';
